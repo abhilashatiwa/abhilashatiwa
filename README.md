@@ -61,7 +61,7 @@ I work at the overlap of **backend engineering** and **applied machine learning*
 
 I completed an **SDE internship at Amazon** (Jan-Jun 2026, Gurugram) and was a **Junior AI Engineer at PingAura.ai** (Jun-Dec 2025, remote). I am a **B.Tech** student in **Computer Science and Engineering** at **Thapar Institute of Engineering & Technology (TIET), Patiala**, class of **2026**.
 
-I am a [**5-star CodeChef**](https://www.codechef.com/users/abhiitiwari) coder and I enjoy **competitive programming** (DSA, contests, problem-solving) alongside building software.
+I enjoy **competitive programming** (DSA, contests, problem-solving) alongside building software.
 
 Open to full-time **SDE**, **Backend**, **Full-Stack**, and **AI/ML Engineer** roles.
 
@@ -229,7 +229,6 @@ A further manuscript, *Comprehensive framework for solar panel maintenance*, is 
 **B.Tech, Computer Science and Engineering**  
 Thapar Institute of Engineering & Technology, Patiala · 2022 - 2026
 
-- [5-star CodeChef](https://www.codechef.com/users/abhiitiwari)
 - Merit-3rd scholarship - top 10% of the branch, 2nd year (2023-2024)
 - NSEJS - top 10% nationally (48,300+ candidates)
 
