@@ -4,7 +4,7 @@
       <img src="assets/hero-standing.png" alt="Abhilasha Tiwari standing and waving hello" width="720" />
       <br /><br />
       <h1>Hi there, developer, what's up?</h1>
-      <p><strong>Wanna know about me? Please explore here (<a href="https://portfolio-one-khaki-w4apamox1e.vercel.app">Portfolio</a>).</strong></p>
+      <p><strong>Wanna know about me? Please explore here (<a href="https://abhilasha-portfolio-zeta.vercel.app/">Portfolio</a>).</strong></p>
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://portfolio-one-khaki-w4apamox1e.vercel.app">
+  <a href="https://abhilasha-portfolio-zeta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
@@ -70,7 +70,7 @@ Open to full-time **SDE**, **Backend**, **Full-Stack**, and **AI/ML Engineer** r
 <a id="experience"></a>
 ## Experience
 
-Roles in short. For code and product detail, see the projects below or my [portfolio](https://portfolio-one-khaki-w4apamox1e.vercel.app).
+Roles in short. For code and product detail, see the projects below or my [portfolio](https://abhilasha-portfolio-zeta.vercel.app/).
 
 ### Amazon - Software Development Engineer Intern
 **Gurugram · Jan 2026 - Jun 2026**
@@ -92,7 +92,7 @@ EEG-based mind-wandering detection with CNN-LSTM models. Co-authored a paper pre
 <a id="co-curricular-societies"></a>
 ## Co-curricular / Societies
 
-Campus roles, one line each. More on my [portfolio](https://portfolio-one-khaki-w4apamox1e.vercel.app).
+Campus roles, one line each. More on my [portfolio](https://abhilasha-portfolio-zeta.vercel.app/).
 
 - **Microsoft Learn Student Chapter, TIET** - Core Member, backend (Node.js / Express)
 - **Thapar Toastmasters** - Core Member; speaking and debating; taught 100+ juniors public speaking
@@ -141,7 +141,7 @@ React + Express app for shows, seat maps, occupancy, and checkout.
 | **Tech** | React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Clerk, Stripe, Inngest |
 | **Highlight** | Seat-availability checks plus Stripe sessions and async payment follow-up |
 
-[GitHub](https://github.com/abhilashatiwa/PopSeat-FullStack) · [API](https://popseat-server.vercel.app)
+[GitHub](https://github.com/abhilashatiwa/PopSeat-FullStack) · [Live link](https://popseat-client.vercel.app/)
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ Express REST for **auth** and **messages**; **Socket.IO** for online presence (`
 | **Tech** | React, Vite, Tailwind CSS, Node.js, Express, Socket.IO, MongoDB, JWT |
 | **Highlight** | HTTP API plus WebSocket presence on JWT-backed accounts |
 
-[GitHub](https://github.com/abhilashatiwa/QuickChat-Full-Stack) · [API](https://quick-chat-server-six.vercel.app)
+[GitHub](https://github.com/abhilashatiwa/QuickChat-Full-Stack) · [Live link](https://quick-chat-client-rosy.vercel.app/login)
 
 </td>
 <td width="50%" valign="top">
@@ -251,7 +251,7 @@ Public account since June 2023. Stats are pulled live from GitHub (rank letter h
 - **Email:** [tiwariabhilasha8765@gmail.com](mailto:tiwariabhilasha8765@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abhilasha293](https://www.linkedin.com/in/abhilasha293)
 - **GitHub:** [github.com/abhilashatiwa](https://github.com/abhilashatiwa)
-- **Portfolio:** [portfolio-one-khaki-w4apamox1e.vercel.app](https://portfolio-one-khaki-w4apamox1e.vercel.app)
+- **Portfolio:** [abhilasha-portfolio-zeta.vercel.app](https://abhilasha-portfolio-zeta.vercel.app/)
 
 <div align="center">
 
